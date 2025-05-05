@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sammcj-mcp-github-issue-badge.png)](https://mseep.ai/app/sammcj-mcp-github-issue)
+
 # MCP GitHub Issue Server
 [![smithery badge](https://smithery.ai/badge/mcp-github-issue)](https://smithery.ai/protocol/mcp-github-issue)
 
